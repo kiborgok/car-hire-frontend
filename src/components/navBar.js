@@ -12,7 +12,7 @@ const NavBar = () => {
       </div>
 
       <ul className="list-unstyled components">
-        <p>Browse for your favourite Movies</p>
+        <p>Browse your favourite movies</p>
         {/* <li className="active">
           <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" className="dropdown-toggle">Home</a>
           <ul className="collapse list-unstyled" id="homeSubmenu">

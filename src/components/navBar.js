@@ -8,11 +8,11 @@ const NavBar = () => {
     //Sidebar Holder
     <nav id="sidebar">
       <div className="sidebar-header">
-        <h3>Car Hire</h3>
+        <h3>Supper Movies</h3>
       </div>
 
       <ul className="list-unstyled components">
-        <p>Hire Your Favourite Car</p>
+        <p>Browse for your favourite Movies</p>
         {/* <li className="active">
           <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" className="dropdown-toggle">Home</a>
           <ul className="collapse list-unstyled" id="homeSubmenu">

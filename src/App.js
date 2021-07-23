@@ -38,7 +38,7 @@ function App() {
               <span></span>
               <span></span>
             </button>
-            <h3 style={{ marginBottom: "0" }}>Car Hire</h3>
+            <h3 style={{ marginBottom: "0" }}>Supper Movies</h3>
             <button
               className="btn btn-dark d-inline-block d-lg-none ml-auto"
               type="button"

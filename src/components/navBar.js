@@ -8,7 +8,7 @@ const NavBar = () => {
     //Sidebar Holder
     <nav id="sidebar">
       <div className="sidebar-header">
-        <h3>Supper Movies</h3>
+        <h3>Super Movies</h3>
       </div>
 
       <ul className="list-unstyled components">
